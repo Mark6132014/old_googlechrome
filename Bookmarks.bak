@@ -1,0 +1,43 @@
+{
+   "checksum": "91f509b1513b0cc218a7bf48989ba3e2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12984490214345330",
+            "id": "4",
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/ca"
+         }, {
+            "date_added": "12984490214346330",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/ca"
+         } ],
+         "date_added": "12982344031464474",
+         "date_modified": "13005885911012407",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "meta_info": "{\"sync\":{\"transaction_version\":\"1\"}}",
+      "other": {
+         "children": [  ],
+         "date_added": "12982344031465474",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "12982344031465474",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
