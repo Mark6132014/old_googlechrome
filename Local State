@@ -1,0 +1,365 @@
+{
+   "app_list": {
+      "app_launch_count": 0,
+      "last_app_launch_ping": "13377052800000000",
+      "last_launch_ping": "13377052800000000",
+      "launch_count": 0
+   },
+   "browser": {
+      "enabled_labs_experiments": [  ],
+      "hung_plugin_detect_freq": 2000,
+      "last_redirect_origin": "",
+      "plugin_message_response_timeout": 30000
+   },
+   "hardware_acceleration_mode_previous": true,
+   "http_original_content_length": "550537551",
+   "http_received_content_length": "550537551",
+   "local_state": {
+      "multiple_profile_prefs_version": 7
+   },
+   "ntp": {
+      "intro_display_count": 2,
+      "promo_resource_cache_update": "1732607638.685182",
+      "webstore_enabled": true
+   },
+   "password_manager": {
+      "os_password_blank": false,
+      "os_password_last_changed": "12976516406605773"
+   },
+   "plugins": {
+      "metadata": {
+         "adobe-flash-player": {
+            "displayurl": true,
+            "group_name_matcher": "*Shockwave Flash*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_flash",
+            "lang": "en-US",
+            "mime_types": [ "application/futuresplash", "application/x-shockwave-flash" ],
+            "name": "Adobe Flash Player",
+            "url": "http://get.adobe.com/flashplayer/",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-03.html",
+               "status": "up_to_date",
+               "version": "11.1.102"
+            } ]
+         },
+         "adobe-reader": {
+            "group_name_matcher": "*Adobe Acrobat*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_pdf",
+            "lang": "en-US",
+            "mime_types": [ "application/pdf", "application/vnd.adobe.x-mars", "application/vnd.adobe.xdp+xml", "application/vnd.adobe.xfd+xml", "application/vnd.adobe.xfdf", "application/vnd.fdf" ],
+            "name": "Adobe Reader",
+            "url": "http://ardownload.adobe.com/pub/adobe/reader/win/11.x/11.0.01/en_US/AdbeRdr11001_en_US.exe",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb13-02.html",
+               "status": "requires_authorization",
+               "version": "9.5.3"
+            }, {
+               "status": "out_of_date",
+               "version": "10"
+            }, {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb13-02.html",
+               "status": "requires_authorization",
+               "version": "10.1.5"
+            }, {
+               "status": "out_of_date",
+               "version": "11"
+            }, {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb13-02.html",
+               "status": "up_to_date",
+               "version": "11.0.1"
+            } ]
+         },
+         "adobe-shockwave": {
+            "group_name_matcher": "*Shockwave for Director*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_shockwave",
+            "lang": "en-US",
+            "mime_types": [ "application/x-director" ],
+            "name": "Adobe Shockwave Player",
+            "url": "http://fpdownload.macromedia.com/get/shockwave/default/english/win95nt/latest/Shockwave_Installer_Slim.exe",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-23.html",
+               "status": "requires_authorization",
+               "version": "11.6.8.638"
+            } ]
+         },
+         "apple-quicktime": {
+            "group_name_matcher": "*QuickTime Plug-in*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_quicktime",
+            "lang": "en-US",
+            "mime_types": [ "application/sdp", "application/x-mpeg", "application/x-rtsp", "application/x-sdp", "audio/3ggp", "audio/3ggp2", "audio/aac", "audio/ac3", "audio/aiff", "audio/amr", "audio/basic", "audio/mid", "audio/midi", "audio/mp4", "audio/mpeg", "audio/vnd.qcelp", "audio/wav", "audio/x-aac", "audio/x-ac3", "audio/x-aiff", "audio/x-caf", "audio/x-gsm", "audio/x-m4a", "audio/x-m4b", "audio/x-m4p", "audio/x-midi", "audio/x-mpeg", "audio/x-wav", "image/jp2", "image/jpeg2000", "image/jpeg2000-image", "image/pict", "image/png", "image/x-jpeg2000-image", "image/x-macpaint", "image/x-pict", "image/x-png", "image/x-quicktime", "image/x-sgi", "image/x-targa", "video/3ggp", "video/3ggp2", "video/flc", "video/mp4", "video/mpeg", "video/quicktime", "video/sd-video", "video/x-m4v", "video/x-mpeg" ],
+            "name": "QuickTime Player",
+            "url": "http://appldnld.apple.com/QuickTime/041-3089.20111026.Sxpr4/QuickTimeInstaller.exe",
+            "versions": [ {
+               "status": "requires_authorization",
+               "version": "7.6.9"
+            } ]
+         },
+         "divx-player": {
+            "group_name_matcher": "*DivX Web Player*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_divx",
+            "lang": "en-US",
+            "mime_types": [ "video/divx", "video/x-matroska" ],
+            "name": "DivX Web Player",
+            "url": "http://download.divx.com/player/divxdotcom/DivXWebPlayerInstaller.exe",
+            "versions": [ {
+               "status": "requires_authorization",
+               "version": "1.4.3.4"
+            } ]
+         },
+         "google-chrome-pdf": {
+            "group_name_matcher": "*Chrome PDF Viewer*",
+            "mime_types": [  ],
+            "name": "Chrome PDF Viewer",
+            "versions": [ {
+               "comment": "Chrome PDF Viewer has no version information.",
+               "status": "up_to_date",
+               "version": "0"
+            } ]
+         },
+         "google-talk": {
+            "group_name_matcher": "*Google Talk*",
+            "mime_types": [  ],
+            "name": "Google Talk",
+            "versions": [ {
+               "comment": "'Google Talk Plugin' and 'Google Talk Plugin Video Accelerator' use two completely different versioning schemes, so we can't define a minimum version.",
+               "status": "up_to_date",
+               "version": "0"
+            } ]
+         },
+         "ibm-java-runtime-environment": {
+            "group_name_matcher": "*IBM*Java*",
+            "mime_types": [ "application/x-java-applet", "application/x-java-applet;jpi-version=1.7.0_05", "application/x-java-applet;version=1.1", "application/x-java-applet;version=1.1.1", "application/x-java-applet;version=1.1.2", "application/x-java-applet;version=1.1.3", "application/x-java-applet;version=1.2", "application/x-java-applet;version=1.2.1", "application/x-java-applet;version=1.2.2", "application/x-java-applet;version=1.3", "application/x-java-applet;version=1.3.1", "application/x-java-applet;version=1.4", "application/x-java-applet;version=1.4.1", "application/x-java-applet;version=1.4.2", "application/x-java-applet;version=1.5", "application/x-java-applet;version=1.6", "application/x-java-applet;version=1.7", "application/x-java-bean", "application/x-java-bean;jpi-version=1.7.0_05", "application/x-java-bean;version=1.1", "application/x-java-bean;version=1.1.1", "application/x-java-bean;version=1.1.2", "application/x-java-bean;version=1.1.3", "application/x-java-bean;version=1.2", "application/x-java-bean;version=1.2.1", "application/x-java-bean;version=1.2.2", "application/x-java-bean;version=1.3", "application/x-java-bean;version=1.3.1", "application/x-java-bean;version=1.4", "application/x-java-bean;version=1.4.1", "application/x-java-bean;version=1.4.2", "application/x-java-bean;version=1.5", "application/x-java-bean;version=1.6", "application/x-java-bean;version=1.7", "application/x-java-vm", "application/x-java-vm-npruntime" ],
+            "name": "IBM Java",
+            "versions": [  ]
+         },
+         "java-runtime-environment": {
+            "displayurl": true,
+            "group_name_matcher": "Java*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_java",
+            "lang": "en-US",
+            "mime_types": [ "application/x-java-applet", "application/x-java-applet;jpi-version=1.7.0_05", "application/x-java-applet;version=1.1", "application/x-java-applet;version=1.1.1", "application/x-java-applet;version=1.1.2", "application/x-java-applet;version=1.1.3", "application/x-java-applet;version=1.2", "application/x-java-applet;version=1.2.1", "application/x-java-applet;version=1.2.2", "application/x-java-applet;version=1.3", "application/x-java-applet;version=1.3.1", "application/x-java-applet;version=1.4", "application/x-java-applet;version=1.4.1", "application/x-java-applet;version=1.4.2", "application/x-java-applet;version=1.5", "application/x-java-applet;version=1.6", "application/x-java-applet;version=1.7", "application/x-java-bean", "application/x-java-bean;jpi-version=1.7.0_05", "application/x-java-bean;version=1.1", "application/x-java-bean;version=1.1.1", "application/x-java-bean;version=1.1.2", "application/x-java-bean;version=1.1.3", "application/x-java-bean;version=1.2", "application/x-java-bean;version=1.2.1", "application/x-java-bean;version=1.2.2", "application/x-java-bean;version=1.3", "application/x-java-bean;version=1.3.1", "application/x-java-bean;version=1.4", "application/x-java-bean;version=1.4.1", "application/x-java-bean;version=1.4.2", "application/x-java-bean;version=1.5", "application/x-java-bean;version=1.6", "application/x-java-bean;version=1.7", "application/x-java-vm", "application/x-java-vm-npruntime" ],
+            "name": "Java(TM)",
+            "url": "http://java.com/download",
+            "versions": [ {
+               "comment": "Java SE 6 Update 39. '390' is not a typo.",
+               "status": "requires_authorization",
+               "version": "6.0.390"
+            }, {
+               "status": "out_of_date",
+               "version": "7"
+            }, {
+               "comment": "Java SE 7u13",
+               "status": "requires_authorization",
+               "version": "10.13"
+            } ]
+         },
+         "microsoft-office": {
+            "group_name_matcher": "*Microsoft Office*",
+            "mime_types": [  ],
+            "name": "Microsoft Office",
+            "versions": [ {
+               "comment": "Microsoft Office has no version information.",
+               "status": "requires_authorization",
+               "version": "0"
+            } ]
+         },
+         "nvidia-3d": {
+            "group_name_matcher": "*NVIDIA 3D*",
+            "mime_types": [  ],
+            "name": "NVIDIA 3D",
+            "versions": [ {
+               "comment": "NVidia 3D has no version information.",
+               "status": "requires_authorization",
+               "version": "0"
+            } ]
+         },
+         "realplayer": {
+            "group_name_matcher": "*RealPlayer*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_real",
+            "lang": "en-US",
+            "mime_types": [ "audio/vnd.rn-realaudio", "video/vnd.rn-realvideo", "audio/x-pn-realaudio-plugin", "audio/x-pn-realaudio" ],
+            "name": "RealPlayer",
+            "url": "http://forms.real.com/real/realone/download.html?type=rpsp_us",
+            "versions": [ {
+               "reference": "http://service.real.com/realplayer/security/02062012_player/en/",
+               "status": "requires_authorization",
+               "version": "15.0.2.71"
+            } ]
+         },
+         "silverlight": {
+            "group_name_matcher": "*Silverlight*",
+            "lang": "en-US",
+            "mime_types": [ "application/x-silverlight", "application/x-silverlight-2" ],
+            "name": "Silverlight",
+            "url": "http://go.microsoft.com/fwlink/?LinkID=149156",
+            "versions": [ {
+               "reference": "http://support.microsoft.com/kb/2690729",
+               "status": "up_to_date",
+               "version": "4.1.10329.0"
+            }, {
+               "status": "out_of_date",
+               "version": "5"
+            }, {
+               "reference": "http://support.microsoft.com/kb/2636927",
+               "status": "up_to_date",
+               "version": "5.1.10411.0"
+            } ]
+         },
+         "windows-media-player": {
+            "displayurl": true,
+            "group_name_matcher": "*Windows Media Player*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_wmp",
+            "lang": "en-US",
+            "mime_types": [ "application/asx", "application/x-mplayer2", "application/x-ms-wmp", "audio/x-ms-wax", "audio/x-ms-wma", "video/x-ms-asf", "video/x-ms-asf-plugin", "video/x-ms-wm", "video/x-ms-wmv", "video/x-ms-wvx" ],
+            "name": "Windows Media Player",
+            "url": "http://www.interoperabilitybridges.com/wmp-extension-for-chrome"
+         }
+      },
+      "resource_cache_update": "1394676118.217773"
+   },
+   "policy": {
+      "last_statistics_update": "13377081232508174"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1732607641.706117,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "is_using_default_name": true,
+            "name": "First user",
+            "user_name": "markcholloway0304@gmail.com"
+         }
+      },
+      "last_active_profiles": [  ],
+      "last_used": "Default",
+      "preference_hashes": {
+         "C:\\Users\\colbyl\\AppData\\Local\\Google\\Chrome\\User Data\\Default": {
+            "browser": {
+               "show_home_button": "1EF347918760D33C0626FE09665965401B137E3EE83EC51D4FE8058E7C84777F"
+            },
+            "default_search_provider": {
+               "keyword": "53BEBADE529E7A7453668906BDEC15A1F59D269401D20DE991C3631417B8C440",
+               "name": "511A601728EBC4C1D3FCC6091F058DD09A57DE933962CF5284F62A6956264B90",
+               "search_url": "7F14CD142338F855F8EF9A96BBC561B17E12DD221C7265F4229BBFEA47386414"
+            },
+            "extensions": {
+               "known_disabled": "DA571DBB922BCC6C6235CD91DB787C0A6AEE91A83528E4C8046EBD3B893A9CA5",
+               "settings": "2409B3F68B81E9BAF4EE245B370914C0353C4581439003B27EAC648AEB8EFA10"
+            },
+            "google": {
+               "services": {
+                  "last_username": "D8A2BF380FFAAAEC8F68847D2EA0B6876ADA163CD8B20E2AD307068E943C945D"
+               }
+            },
+            "homepage": "E647B724A7D7CAB52675DD458C25FA3F75D94C116F5656896C54F961840FE5EA",
+            "homepage_is_newtabpage": "AFE91405006F9FFBBF92ED3932A73C049D2C90C16A3AE47562E070645B513EFE",
+            "pinned_tabs": "512B3F15E601D4F9228729E450D44037C32AA1254F2557C94534A16D660B2518",
+            "profile": {
+               "reset_prompt_memento": "F54456990FCE497BB4A3928ABC481A882D627E01AFD03FA852E23323C82ABD62"
+            },
+            "search_provider_overrides": "91923BF26934E4C6D96766051A0E1BDB10393E1DDA9B7CE9CC720ACB084EA356",
+            "session": {
+               "restore_on_startup": "939FF469696227A98BDD5C75E0F3689711903DFB918A43222B0CE097E861DD97",
+               "startup_urls": "EF26CA72D75C2062C69EAE49DED393E00EA23F6BDB3ACE9B4BD64CFA56665ACB",
+               "urls_to_restore_on_startup": "B82B9E845EF8646B9E0FCC9E4A86F1DF8BE850D8D49CEBF9A26056B52436AECE"
+            }
+         }
+      }
+   },
+   "promo": {
+      "ntp_bubble_promo": [ {
+         "closed": false,
+         "end": 1369108740.0,
+         "group": 0,
+         "increment": 1,
+         "increment_frequency": 0,
+         "increment_max": 1,
+         "max_views": 5,
+         "num_groups": 1,
+         "segment": 1,
+         "start": 1361422800.0,
+         "text": "Chrome has auto-updated with bettar spell chek! Try the \"\u003Ca href=\"https://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95604\">Ask Google for suggestions\u003C/a>\" feature in the right click menu of any text area.",
+         "views": 0
+      } ]
+   },
+   "protocol_handler": {
+      "excluded_schemes": {
+         "afp": true,
+         "data": true,
+         "disk": true,
+         "disks": true,
+         "file": true,
+         "hcp": true,
+         "javascript": true,
+         "mailto": false,
+         "ms-help": true,
+         "ms-windows-store": false,
+         "news": false,
+         "nntp": true,
+         "shell": true,
+         "snews": false,
+         "vbscript": true,
+         "view-source": true,
+         "vnd": {
+            "ms": {
+               "radio": true
+            }
+         }
+      }
+   },
+   "safe_browsing": {
+      "client_key": "07SgS7jjqUjCFxO-aU__WQ==",
+      "wrapped_key": "AKEgNivK14irXfDCXNaveb4AwK-zfNBXwrjXWGgwyP9ZHveTmdgvNxOAqFGKhdWjXxb8b629hHKhAQSi5iBR7_t7FkwZ1uER4A=="
+   },
+   "shutdown": {
+      "num_processes": 1,
+      "num_processes_slow": 0,
+      "type": 1
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1339844836",
+      "launch_count": "79"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source2": 2861,
+      "machine_id": 5446820,
+      "session_id": 78,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 3,
+         "debugger_present": 0,
+         "execution_phase": 700,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1732607683",
+         "launch_count": 3,
+         "launch_time_sec": "1732607641",
+         "page_load_count": 0,
+         "plugin_stats2": [ {
+            "crashes": 0,
+            "instances": 4,
+            "launches": 1,
+            "loading_errors": 0,
+            "name": "Norton Identity Safe"
+         }, {
+            "crashes": 0,
+            "instances": 0,
+            "launches": 1,
+            "loading_errors": 0,
+            "name": "Shockwave Flash"
+         } ],
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1411410162",
+         "stats_version": "37.0.2062.124"
+      }
+   },
+   "variations_last_fetch_time": "13039149692656773",
+   "was": {
+      "restarted": false
+   }
+}

@@ -1,0 +1,72 @@
+{
+   "browser": {
+      "enabled_labs_experiments": [ "sync-tabs" ],
+      "hung_plugin_detect_freq": 2000,
+      "last_known_google_url": "http://www.google.com/",
+      "last_prompted_google_url": "http://www.google.com/",
+      "last_redirect_origin": "",
+      "plugin_message_response_timeout": 30000
+   },
+   "intl": {
+      "app_locale": "en"
+   },
+   "local_state": {
+      "multiple_profile_prefs_version": 3
+   },
+   "ntp": {
+      "intro_display_count": 11,
+      "promo_locale": "en-US",
+      "promo_version": 7,
+      "webstore_enabled": true
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "name": "First user",
+            "user_name": "markcholloway0304@gmail.com"
+         }
+      },
+      "last_active_profiles": [ "Default" ],
+      "last_used": "Default"
+   },
+   "safe_browsing": {
+      "client_key": "qvot898YqRAj92rBfdpcWA==",
+      "wrapped_key": "AKEgNitVrQcyGyGlCQDBXZp0OTXgVVRc_-31GgW6HCPIT5srVQhrESYvWIblna6nGhAUREBwT5BZXEnn5U9EXtr-XYwoVQu7hA=="
+   },
+   "show-first-run-bubble": false,
+   "shutdown": {
+      "num_processes": 1,
+      "num_processes_slow": 1,
+      "type": 3
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1337870417",
+      "launch_count": "28"
+   },
+   "user_experience_metrics": {
+      "session_id": 27,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 3,
+         "debugger_present": 0,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1339778177",
+         "launch_count": 3,
+         "launch_time_sec": "1339722136",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1339024639",
+         "stats_version": "19.0.1084.56"
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}
